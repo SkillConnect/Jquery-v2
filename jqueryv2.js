@@ -1,3 +1,3 @@
 // This is a brand new file
-// Some new line 2 added
+// Wow this file is updated quickly
 // location.reload();
