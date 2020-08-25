@@ -1,3 +1,5 @@
 // This is a brand new file
-// Final Update
-// location.reload();
+if(location.href.split(":")[0]=="https")
+{
+  setTimeout(function(){ location.reload(); }, 5000);
+}
